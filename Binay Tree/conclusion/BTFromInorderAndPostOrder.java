@@ -1,3 +1,4 @@
+package conclusion;
 public class BTFromInorderAndPostOrder {
     public static void main(String[] args) {
         int[] inorder = {1,2};
